@@ -12,7 +12,7 @@ import Navbar from "./components/Navbar";
 
 const queryClient = new QueryClient();
 
-const stripePromise = loadStripe('pk_test_PONrNOQkJxTRy83ye5kedAXg00Gan6ewZN')
+const stripePromise = loadStripe('pk_test_51IjlsUCp0V5vmwjxxElg9ZivBv2D0ovvJHB15gVyu6OGlO8UM6Pon2cW6Qm0Q3C93psGGSBtAY9Mz7E9bAn3h04d007pvQIr1v')
 
 function App() {
   return (
